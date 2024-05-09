@@ -1,6 +1,6 @@
 <div align="center">
-<br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alegreya&weight=600&size=25&pause=1000&&background=F0CFD4FF&center=true&vCenter=true&random=false&width=435&lines=butterflies+in+the+stomach+🦋" alt="Typing SVG" /></a><br><br>
+    
+<a><img src="https://readme-typing-svg.herokuapp.com?font=Quintessential&size=30&pause=1000&background=F0CFD4&center=true&vCenter=true&random=false&width=600&height=70&lines=butterflies+in+the+stomach+%F0%9F%A6%8B" alt="Typing SVG" /></a>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/alfarezyyd)
 [![](https://img.shields.io/badge/gitlab-red)](https://gitlab.com/alfarezyyd)
