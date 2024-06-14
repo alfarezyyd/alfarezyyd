@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
     
 <a><img src="https://readme-typing-svg.herokuapp.com?font=Playball&size=33&pause=1000&background=F0CFD4&center=true&vCenter=true&random=false&width=400&height=50&lines=butterflies+in+the+stomach+%F0%9F%A6%8B" alt="Butterflies in the stomach" /></a>
     
