@@ -1,6 +1,6 @@
 <div align="center">
     
-<a><img src="https://readme-typing-svg.herokuapp.com?font=Playball&size=28&pause=1000&background=F0CFD4&center=true&vCenter=true&random=false&width=500&height=50&lines=i-wish-it-was-midnight-all-the-time" alt="i-wish-it-was-midnight-all-the-time" /></a>
+<a><img src="https://readme-typing-svg.herokuapp.com?font=Playball&size=28&pause=900&background=F0CFD4&center=true&vCenter=true&random=false&width=500&height=50&lines=i-wish-it-was-midnight-all-the-time" alt="i-wish-it-was-midnight-all-the-time" /></a>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/alfarezyyd)
 [![](https://img.shields.io/badge/gitlab-red)](https://gitlab.com/alfarezyyd)
