@@ -1,7 +1,5 @@
 <div align="center">    
-
-
-  <div align="center">
+<div align="center">
 
 <a><img src="https://readme-typing-svg.herokuapp.com?font=Playball&size=28&pause=1000&background=F0CFD4&center=true&vCenter=true&random=false&width=500&height=50&lines=at-god's-mercy" alt="at-god's-mercy" /></a>
 
