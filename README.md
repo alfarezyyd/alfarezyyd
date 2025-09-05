@@ -3,7 +3,7 @@
 
 
 
-<a><img src="https://readme-typing-svg.herokuapp.com?font=Birthstone&size=28&pause=1000&background=F0CFD4&center=true&vCenter=true&random=false&width=500&height=50&lines=word-is-zutomayo" alt="tiptoe-through-the-tulips"/></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&width=435&lines=%E2%80%9CBahkan+orang+yang+dulu+aku+kejar+mati-matian%2C+;tidak+peduli+jika+aku+mati.%E2%80%9D" alt="Typing SVG" /></a>
 
 [![](https://img.shields.io/badge/website-808080)](https://next-alfarezyyd-profile.vercel.app)
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/alfarezyyd)
